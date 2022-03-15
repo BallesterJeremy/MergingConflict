@@ -1,3 +1,5 @@
+REMOTE
+
 # MergingConflict
 
 a
