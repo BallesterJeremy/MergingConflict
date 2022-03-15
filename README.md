@@ -1,4 +1,5 @@
-REMOTE
+LOCAL
+
 
 # MergingConflict
 
